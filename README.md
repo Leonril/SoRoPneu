@@ -10,7 +10,7 @@ FEBio 3.0 can be downoaded here:
 https://febio.org/downloads/.
 
 # Contribution Guidelines:
-No stringent variable name enforcement althought try to keep the use consistent thoughout.
+There is no stringent variable name enforcement although try to keep the use consistent thoughout.
 Where possible use industry standard variations of F,E,V,C for Face, Element, Vertex and Colour arrays.
 
 
